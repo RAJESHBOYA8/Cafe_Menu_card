@@ -52,4 +52,5 @@ This project was created as part of a practice exercise to strengthen HTML and C
 
 ## 📸 Screenshots
 
-![Cafe Menu Screenshot](https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg)
+![Cafe Menu Screenshot](<img width="1914" height="943" alt="Screenshot 2025-07-24 142017" src="https://github.com/user-attachments/assets/b5860110-5a03-4b19-86b2-c2db78140102" />
+)
